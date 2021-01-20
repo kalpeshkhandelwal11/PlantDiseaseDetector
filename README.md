@@ -44,6 +44,8 @@ https://colab.research.google.com/drive/1-phA7P8lGcoyxpnkns3KnshuBy76dXnY?usp=sh
 Ps: you have to upload a Kaggle.json file which you will get from your kaggle account after activating api . https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-colab-ea682569851a Yo can follow this to get the json file.
 Upload the json file directly to collab .
 
+# Label File is in asset Folder and tflite file is also under asset folder
+
 Treatment might not work because You need to add data manually to firebase.
 
 # Also see project doc in the repo. tflite File is in  the asset folder
