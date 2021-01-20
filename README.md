@@ -46,6 +46,8 @@ Upload the json file directly to collab .
 
 Treatment might not work because You need to add data manually to firebase.
 
+# Also see project doc in the repo. tflite File is in  the asset folder
+
 ping me if you have any issue .
 # happy to help
 
